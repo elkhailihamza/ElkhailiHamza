@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋.
+**`Student`**
 
-<!--
-**elkhailihamza/elkhailihamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I don't know what to put here, so here are gifs of a crab i found online :)</p>
 
-Here are some ideas to get you started:
+<img src="https://github.com/elkhailihamza/ElkhailiHamza/assets/144837059/8385310b-affa-4403-bbd4-65ddd21bf67c" alt="crab" width="47%"/>
+<img src="https://github.com/elkhailihamza/ElkhailiHamza/assets/144837059/26999bfa-a316-4b64-88d4-ab799c452474" alt="the same crab but doing something else idk" width="47%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+![Snake animation](https://github.com/elkhailihamza/ElkhailiHamza/blob/output/github-contribution-grid-snake.svg)
+___
+<div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=elkhailihamza&show_icons=true&theme=radical" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhailihamza&layout=compact" />
+</div>
