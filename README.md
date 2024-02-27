@@ -38,8 +38,8 @@ Passionate about creating web applications that seamlessly blend aesthetics and 
 ###
   
 <div align="center">
-  
-  ![snake animation](https://github.com/elkhailihamza/ElkhailiHamza/blob/output/github-contribution-grid-snake2.svg)
+
+  ![Snake animation](https://github.com/elkhailihamza/ElkhailiHamza/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
