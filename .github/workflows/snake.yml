@@ -15,11 +15,19 @@ jobs:
 
       # Snake Animation
       - name: Generate snake
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@main  # Use the latest version from the main branch
         with:
           github_user_name: elkhailihamza
           svg_out_path: dist/github-contribution-grid-snake2.svg
           snake_color: 'red'
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake2.svg
+          git commit -m "Update snake game"
+          git push
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
