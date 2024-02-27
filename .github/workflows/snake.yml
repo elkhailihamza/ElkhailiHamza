@@ -7,19 +7,24 @@ on:
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Update contribution grid
     runs-on: ubuntu-latest
     steps:
+      - name: Use Node.js 14
+        uses: actions/setup-node@v4
+        with:
+          node-version: 14
+
       - name: Checkout repository
         uses: actions/checkout@v2
 
       # Snake Animation
       - name: Generate snake
-        uses: Platane/snk@main  # Use the latest version from the main branch
+        uses: Platane/snk@main
         with:
           github_user_name: elkhailihamza
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'red'
+          entryPoint: 'dist/github-contribution-grid-snake2.svg'
+          args: '--snake-color red'
 
       - name: Commit and push changes
         run: |
