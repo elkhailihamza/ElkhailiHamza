@@ -40,7 +40,7 @@ Passionate about creating web applications that seamlessly blend aesthetics and 
   
 <div align="center">
 
-  ![Snake animation](https://github.com/elkhailihamza/ElkhailiHamza/blob/output/github-contribution-grid-snake-dark.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elkhailihamza/ElkhailiHamza/output/github-contribution-grid-snake.svg" />
   
 </div>
 
