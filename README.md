@@ -2,7 +2,7 @@
 **`Student`**
 
 <p align="center">
-  /| <strong>Welcome to my profile!</strong> |\
+  /| <strong>Welcome to my profile</strong> |\
 </p>
 
 ###
@@ -17,14 +17,15 @@ Passionate about creating web applications that seamlessly blend aesthetics and 
 
 ### Front-end
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Bootstrap, Tailwind, jQuery.
+- **Languages:** HTML, CSS, JavaScript.
+- **Frameworks** Bootstrap, Tailwind.
+- **Libraries:** React.js, jQuery.
 
 ### Back-end
 
 - **Languages:** php.
 - **Frameworks:** Laravel.
-- **Databases:** MySQL.
+- **Databases:** Sql, MySQL.
 
 ## 📊 Stats
 
