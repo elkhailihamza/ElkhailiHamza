@@ -35,12 +35,12 @@ Passionate about creating web applications that seamlessly blend aesthetics and 
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=elkhailihamza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&disable_animations=false&locale=en&hide_border=false" height="150" width="375" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhailihamza&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=radical&hide_border=false" height="150" width="375" />
   </div>
-
-###
   
+###
+
 <div align="center">
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elkhailihamza/ElkhailiHamza/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elkhailihamza/ElkhailiHamza/output/github-contribution-grid-snake-dark.svg" />
   
 </div>
 
