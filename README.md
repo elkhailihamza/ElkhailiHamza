@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Passionate about creating web applications. Full-stack developer with experience in both front-end and back-end technologies. Based in Morocco/Youssoufia.
+Passionate about creating web applications. Full-stack developer with experience in both front-end and back-end technologies.
 
 ###
 
