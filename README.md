@@ -25,7 +25,7 @@ Passionate about creating web applications. Full-stack developer with experience
 
 - **Languages:** php, Java.
 - **Frameworks:** Laravel, Spring boot, Spring framework.
-- **Databases:** Sql, MySQL.
+- **Databases:** Sql, MySQL, PostgreSQL.
 
 ## 📊 Stats
 
