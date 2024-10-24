@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Passionate about creating web applications that seamlessly blend aesthetics and functionality. Full-stack developer with experience in both front-end and back-end technologies. Based in Morocco/Youssoufia.
+Passionate about creating web applications. Full-stack developer with experience in both front-end and back-end technologies. Based in Morocco/Youssoufia.
 
 ###
 
@@ -17,14 +17,14 @@ Passionate about creating web applications that seamlessly blend aesthetics and 
 
 ### Front-end
 
-- **Languages:** HTML, CSS, JavaScript.
+- **Languages:** JavaScript.
 - **Frameworks** Bootstrap, Tailwind.
 - **Libraries:** React.js, jQuery.
 
 ### Back-end
 
-- **Languages:** php.
-- **Frameworks:** Laravel.
+- **Languages:** php, Java.
+- **Frameworks:** Laravel, Spring boot, Spring framework.
 - **Databases:** Sql, MySQL.
 
 ## 📊 Stats
