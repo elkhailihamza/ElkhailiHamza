@@ -17,14 +17,13 @@ Passionate about creating web applications. Full-stack developer with experience
 
 ### Front-end
 
-- **Languages:** JavaScript.
-- **Frameworks** Bootstrap, Tailwind.
+- **Frameworks** Angular, Bootstrap, Tailwind.
 - **Libraries:** React.js, jQuery.
 
 ### Back-end
 
-- **Languages:** php, Java.
-- **Frameworks:** Laravel, Spring boot, Spring framework.
+- **Languages:** Java, PHP.
+- **Frameworks:** Spring boot, Laravel, Spring framework.
 - **Databases:** Sql, MySQL, PostgreSQL.
 
 ## 📊 Stats
