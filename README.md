@@ -1,13 +1,9 @@
 **`Hi there 👋`**
-### Welcome to my github
+# Welcome to my github
 
-###
-
-## 🚀 About Me
+### 🚀 About Me
 
 Passionate about creating web applications. Full-stack developer with experience in both front-end and back-end technologies.
-
-###
 
 ## 🔧 Technologies & Tools
 
