@@ -1,9 +1,5 @@
-## Hi there 👋.
-**`Student`**
-
-<p align="center">
-  /| <strong>Welcome to my profile</strong> |\
-</p>
+**`Hi there 👋`**
+### Welcome to my github
 
 ###
 
