@@ -14,8 +14,12 @@ Passionate about creating web applications. Full-stack developer with experience
 ###
 
   <div align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=elkhailihamza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&disable_animations=false&locale=en&hide_border=false" height="150" width="375" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkhailihamza&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=radical&hide_border=false" height="150" width="375" />
+  
+  ![](https://denvercoder1-github-readme-stats.vercel.app/api?username=elkhailihamza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&disable_animations=false&locale=en&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=elkhailihamza&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=elkhailihamza&theme=gruvbox_light&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=elkhailihamza&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
   </div>
   
 ###
